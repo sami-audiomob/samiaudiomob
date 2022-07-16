@@ -1,0 +1,2 @@
+- 👋 Hi, I’m sami alateya
+- I'm senior web developer @ Audiomob
