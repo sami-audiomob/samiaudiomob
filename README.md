@@ -1,2 +1,2 @@
-- 👋 Hi, I’m sami alateya
-- I'm senior web developer @ Audiomob
+- 👋 Hi, I’m sami
+- I'm a web developer @ Audiomob
